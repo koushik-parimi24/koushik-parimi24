@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **koushikparimi21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F8euzRNtiDTDcnRr3OwmSeYbftx4DmJV/view?usp=sharing](https://drive.google.com/file/d/1F8euzRNtiDTDcnRr3OwmSeYbftx4DmJV/view?usp=sharing)
+- 📄 Know about my experiences [view my resume](https://vevxdyokovrxyxrhrqhj.supabase.co/storage/v1/object/public/resume/Koushik%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
