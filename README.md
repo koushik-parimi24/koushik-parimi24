@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik-parimi24" alt="koushik-parimi24" /></a> </p>
 
-- 🔭 I’m currently working on **A live collaboration tool using socket.io so that multiple users can work on a single document and chat together to solve the problems.**
 
 - 🌱 I’m currently learning **Spring,Typescript and Machine-learning.**
 
